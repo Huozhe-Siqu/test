@@ -15,4 +15,5 @@ git config user.email xxx
 可以为新建的分支重命名，重命名分支名为daily/0.0.1
 ###git branch
 查看当前的分子列表
-
+###git branch -d daily/0.0.1
+如果分支已经完成了使命，通过-d参数将分支删除
