@@ -11,4 +11,8 @@ git config user.email xxx
 创建，重命名，查看，删除项目分支，通过git做项目开发时，一般都是在开发分支中进行，开发完成后合并到主干
 ###git btanch daily/0.0.0
 创建一个名为daily/0.0.0的日常开发分支，分支名只要包含特殊字符即可
+###git branch  -m daily/0.0.0 daily/0.0.1
+可以为新建的分支重命名，重命名分支名为daily/0.0.1
+###git branch
+查看当前的分子列表
 
